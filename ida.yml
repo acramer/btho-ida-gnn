@@ -1,0 +1,13 @@
+name: ida
+channels:
+  - defaults
+dependencies:
+  - torchvision
+  - numpy[version='>=1.20.0']
+  - python[version='>=3.8']
+  - torchaudio
+  - tqdm
+  - matplotlib
+  - pandas
+  - pytorch[version='>=1.9']
+  - scikit-learn
